@@ -64,11 +64,11 @@
 </p>
 
 <p align="center">
-  <img width="600" src="https://github.com/shadowmilkcrk/shadowmilkcrk/blob/7b7dfc203908ade37a55006a3c2048d1015979c5/tumblr_045981ea50ed781a7a6f467e18449b82_5472cab7_400.png">
+  <img width="300" src="https://github.com/shadowmilkcrk/shadowmilkcrk/blob/7b7dfc203908ade37a55006a3c2048d1015979c5/tumblr_045981ea50ed781a7a6f467e18449b82_5472cab7_400.png">
 </p>
 
 <p align="center">
-  <img width="600" src="https://github.com/shadowmilkcrk/shadowmilkcrk/blob/7b7dfc203908ade37a55006a3c2048d1015979c5/tumblr_d31eddab7bbb732d3a5c5ef90a6d4a89_e37d0526_400.png">
+  <img width="300" src="https://github.com/shadowmilkcrk/shadowmilkcrk/blob/7b7dfc203908ade37a55006a3c2048d1015979c5/tumblr_d31eddab7bbb732d3a5c5ef90a6d4a89_e37d0526_400.png">
 </p>
 
 <p align="center">
