@@ -35,7 +35,7 @@
  ${\textsf{\color{#0F52BA}"Haru . Bassie . Haruka ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#4682B4}"19 . AuDHD . OCD . Anxiety ."}}$
+ ${\textsf{\color{#4682B4}"20 . AuDHD . OCD . Anxiety ."}}$
 </p>
 <p align="right">
  ${\textsf{\color{#B6D0E2}"Heavy overthinker . Easily overstimulated ."}}$
